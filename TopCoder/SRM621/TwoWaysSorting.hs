@@ -1,5 +1,5 @@
 {-
-sample imputs
+sample imputs and corresponding answers
 1) ["1", "22", "333"] => "both"
 2) ["111", "22", "3"] => "lexicographically"
 3) ["3", "22", "111"] => "lengths"
